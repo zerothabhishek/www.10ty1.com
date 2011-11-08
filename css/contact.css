@@ -1,0 +1,18 @@
+#contact{
+	margin-top: 1em;
+	color: #ffffff;
+}
+
+.email{
+	margin-top: 1em;
+	font-size: 18pt;
+}
+.phone{
+	margin-top: 1em;
+	font-size: 16pt;
+}
+.address{
+	color: #dddccc;
+	margin-top: 1em;
+	font-size: 12pt;
+}

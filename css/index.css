@@ -1,0 +1,30 @@
+body{
+	background-image: url("/images/wood1.jpg");
+}
+#container{
+	width: 800px;
+	margin: 200px auto;
+	color: #dddccc;
+	font-family: helvetica;
+}
+
+#container #header{
+	font-size: 36pt;
+	font-family: georgia;
+}
+#container #work{
+	margin-top: 1em;
+	color: #dddccc;
+	font-size: 16pt;
+}
+#container #work a{
+	color: #ffffff;
+}
+#container #links{
+	color: #dddccc;
+	margin-top: 2em;
+}
+#container #links a{
+	color: #dddccc;
+	padding-right: 0.5em;
+}
